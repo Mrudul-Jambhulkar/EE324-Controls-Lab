@@ -15,7 +15,7 @@ Each lab folder contains:
 - Simulation scripts and models.
 - Documentation and reports detailing the experiment setup, methodology, and results.
 
-## 🧠 Topics Covered
+## Topics Covered
 
 The lab experiments cover the following topics:
 
